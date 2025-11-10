@@ -1,3 +1,6 @@
+// GitHub StoryMapJS config for direct integration
+// Save this as storymap.json and push to your GitHub repo, then link via https://cdn.knightlab.com/libs/storymapjs/latest/embed/index.html?url=YOUR_REPO_URL/storymap.json
+
 {
   "storymap": {
     "language": "en",
@@ -7,41 +10,52 @@
       {
         "type": "overview",
         "text": {
-          "headline": "Ballroom Culture Migration: 1970s\u20131990s",
-          "text": "A visual journey through key locations in the evolution of New York City's ballroom scene. From Harlem to Midtown, these spaces hosted balls, dance parties, and community building."
+          "headline": "Ballroom Culture Migration: 1970s–1990s",
+          "text": "A visual journey through key locations in the evolution of New York City's ballroom scene. From Harlem to downtown Manhattan and Brooklyn, this map tracks how queer Black and Latinx communities built vibrant cultural networks across the city. Rooted in the Great Migration and shaped by segregation, displacement, and resilience, ballroom culture moved alongside people seeking space, freedom, and belonging."
         }
       },
       {
         "location": {
           "lat": 40.8107,
-          "lon": -73.948,
+          "lon": -73.9480,
           "name": "Elks Lodge, Harlem"
         },
         "text": {
           "headline": "Elks Lodge, Harlem",
-          "text": "One of the earliest major ball venues. Hosted the 1984 'Paris is Burning Ball' and others in Harlem\u2019s drag and ballroom circuit."
+          "text": "One of the earliest major ball venues. Hosted the 1984 'Paris is Burning Ball' and others in Harlem’s drag and ballroom circuit. Harlem was a hub for the Black cultural renaissance that followed the Great Migration, and venues like this offered refuge and spectacle."
         }
       },
       {
         "location": {
-          "lat": 40.814,
-          "lon": -73.954,
-          "name": "Jay\u2019s Bar, Harlem"
+          "lat": 40.8141,
+          "lon": -73.9535,
+          "name": "Andre’s Bar, Harlem"
         },
         "text": {
-          "headline": "Jay\u2019s Bar, 125th Street",
-          "text": "Key queer nightlife site in Harlem. Along with Andre\u2019s, it served as an informal social hub in the 1980s."
+          "headline": "Andre’s Bar, 125th Street",
+          "text": "Alongside Jay’s Bar, Andre’s was a local favorite for Black queer and trans communities. Its location in the heart of Harlem made it central to nightlife and street culture in the 1980s and 1990s."
         }
       },
       {
         "location": {
-          "lat": 40.667,
-          "lon": -73.951,
+          "lat": 40.8140,
+          "lon": -73.9540,
+          "name": "Jay’s Bar, Harlem"
+        },
+        "text": {
+          "headline": "Jay’s Bar, 125th Street",
+          "text": "A key queer nightlife site in Harlem. These spaces provided not just music and dancing, but also community care, gender expression, and chosen family—all critical for those excluded from mainstream society."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.6670,
+          "lon": -73.9510,
           "name": "Empire Roller Skating Rink, Brooklyn"
         },
         "text": {
           "headline": "Empire Roller Skating Rink",
-          "text": "In Crown Heights, this was the site of major balls in the 1980s, including 'Gospel on Skates' and community fundraisers."
+          "text": "Located in Crown Heights, a predominantly Caribbean and African American neighborhood in Brooklyn. This rink hosted major balls in the 1980s, like 'Gospel on Skates,' and functioned as a cultural bridge between boroughs."
         }
       },
       {
@@ -52,7 +66,7 @@
         },
         "text": {
           "headline": "Roseland Ballroom, Midtown",
-          "text": "Site of the legendary 1989 and 1991 'Love Ball' AIDS benefits. Drew celebrities and raised over $1.5M."
+          "text": "Located in Manhattan’s Theater District, Roseland was the site of the 1989 and 1991 'Love Ball' AIDS benefits. These high-profile events merged underground ballroom with celebrity and fashion worlds, raising over $1.5 million."
         }
       },
       {
@@ -63,7 +77,7 @@
         },
         "text": {
           "headline": "Studio 54",
-          "text": "Iconic disco that shaped nightlife in the 70s and 80s. Selective door policy but influential in ballroom\u2019s aesthetics."
+          "text": "This iconic disco club in Midtown Manhattan shaped 70s nightlife. Though highly selective, its style, sound, and pageantry influenced ballroom aesthetics."
         }
       },
       {
@@ -74,7 +88,7 @@
         },
         "text": {
           "headline": "Palladium, East Village",
-          "text": "Known for grand dance events and benefit balls. Hosted events with Spike Lee and ballroom legends."
+          "text": "A major nightlife space located in the historically immigrant and artist-rich East Village. Hosted large-scale fundraisers and ballroom-adjacent parties in the late 80s and early 90s."
         }
       },
       {
@@ -85,18 +99,18 @@
         },
         "text": {
           "headline": "Club Tracks, Chelsea",
-          "text": "Ballroom space in Chelsea. Kevin Omni hosted \u2018Legends, Statements & Stars\u2019 series here beginning 1989."
+          "text": "Chelsea became increasingly known for queer nightlife in the 80s and 90s. Tracks hosted events like ‘Legends, Statements & Stars’ that attracted top performers and helped extend ballroom into downtown scenes."
         }
       },
       {
         "location": {
-          "lat": 40.723,
-          "lon": -73.994,
+          "lat": 40.7230,
+          "lon": -73.9940,
           "name": "Paradise Garage"
         },
         "text": {
           "headline": "Paradise Garage",
-          "text": "Famous for Larry Levan\u2019s DJ sets. Spiritual center of downtown queer and ballroom nightlife in the 1980s."
+          "text": "Located in Hudson Square near SoHo, Paradise Garage was legendary for Larry Levan’s DJ sets and its welcoming, queer, POC crowd. It was a spiritual center for downtown dance and a major influence on voguing and ballroom rhythm."
         }
       },
       {
@@ -107,18 +121,18 @@
         },
         "text": {
           "headline": "The Loft, NoHo",
-          "text": "David Mancuso\u2019s private dance space helped pioneer underground queer dance culture and influenced ballroom rhythms."
+          "text": "David Mancuso’s invitation-only parties in this NoHo loft helped pioneer NYC’s underground dance culture. The Loft prioritized safety, joy, and community—values central to the ballroom ethos."
         }
       },
       {
         "location": {
           "lat": 40.7662,
-          "lon": -73.993,
+          "lon": -73.9930,
           "name": "Haaren High School (Up the Down Staircase)"
         },
         "text": {
-          "headline": "Up the Down Staircase (Filming Site)",
-          "text": "Filmed at Haaren High School, this 1967 film contextualizes public education in NYC, paralleling ballroom\u2019s themes of youth and survival."
+          "headline": "Up the Down Staircase (Filming Site & Early Ball Venue)",
+          "text": "Filmed at Haaren High School in Hell’s Kitchen, this site served as both a cinematic critique of public education and one of the locations for early ballroom events in the late 1960s. Balls here mark some of the earliest documentation of competitive walk and performance."
         }
       }
     ]
