@@ -1,7 +1,3 @@
-// GitHub StoryMapJS config for direct integration
-// Save this as storymap.json and push to your GitHub repo, then link via https://cdn.knightlab.com/libs/storymapjs/latest/embed/index.html?url=YOUR_REPO_URL/storymap.json
-
-{
   "storymap": {
     "language": "en",
     "map_type": "toner-lite",
