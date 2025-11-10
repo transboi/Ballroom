@@ -1,0 +1,137 @@
+{
+  "storymap": {
+    "language": "en",
+    "map_type": "toner-lite",
+    "calculate_zoom": true,
+    "slides": [
+      {
+        "type": "overview",
+        "text": {
+          "headline": "Ballroom Culture Migration: 1970s–1990s",
+          "text": "This map visualizes the migration of New York City’s ballroom culture from its early roots in Harlem to downtown Manhattan and Brooklyn. It follows key venues that shaped and hosted the scene as it moved across boroughs with shifting demographics, cultural networks, and urban pressures."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8021,
+          "lon": -73.9496,
+          "name": "Haaren High School (Up the Down Staircase)"
+        },
+        "text": {
+          "headline": "115th & 5th: 'Up the Down Staircase' Filming & Balls (1967)",
+          "text": "This Harlem intersection served as both a filming location and early ball venue in 1967. It captured a transitional moment for Black queer expression in public space, setting the tone for what would soon evolve into organized ball competitions."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8107,
+          "lon": -73.9480,
+          "name": "Elks Lodge, Harlem"
+        },
+        "text": {
+          "headline": "Elks Lodge, Harlem (Early 1980s)",
+          "text": "A pillar of Harlem’s ballroom scene. Hosted iconic events like the 1984 'Paris is Burning Ball.' The neighborhood was a cultural stronghold for Black LGBTQ+ life before gentrification began to erode its nightlife infrastructure."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8141,
+          "lon": -73.9535,
+          "name": "Andre’s Bar, Harlem"
+        },
+        "text": {
+          "headline": "Andre’s Bar on 125th Street",
+          "text": "Black and trans nightlife thrived at venues like Andre’s, anchoring Harlem’s community life well into the 1980s."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8140,
+          "lon": -73.9540,
+          "name": "Jay’s Bar, Harlem"
+        },
+        "text": {
+          "headline": "Jay’s Bar on 125th Street",
+          "text": "Situated near Andre’s, Jay’s was another hub for ballroom-affiliated communities before the shift toward downtown venues accelerated."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.763627,
+          "lon": -73.984122,
+          "name": "Roseland Ballroom"
+        },
+        "text": {
+          "headline": "Roseland Ballroom, Midtown (Late 1980s–1991)",
+          "text": "Ballroom culture enters the mainstream with the 'Love Ball' AIDS fundraisers hosted at Roseland in 1989 and 1991. These high-profile events brought ballroom into contact with fashion, celebrity, and charity spheres."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.764361,
+          "lon": -73.983778,
+          "name": "Studio 54"
+        },
+        "text": {
+          "headline": "Studio 54 Influence",
+          "text": "Though not a ballroom venue, Studio 54 helped shape aesthetic and performance styles of ballroom through its emphasis on spectacle, queerness, and Black disco culture."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.7437,
+          "lon": -74.0073,
+          "name": "Club Tracks, Chelsea"
+        },
+        "text": {
+          "headline": "Tracks, Chelsea (Late 1980s)",
+          "text": "As Harlem venues declined, ballroom events expanded to Chelsea’s Tracks nightclub. Here, houses competed in events like 'Legends, Statements & Stars.'"
+        }
+      },
+      {
+        "location": {
+          "lat": 40.733311,
+          "lon": -73.988156,
+          "name": "Palladium, East Village"
+        },
+        "text": {
+          "headline": "Palladium Ballroom, East Village",
+          "text": "A prominent nightlife space where major ballroom fundraisers and crossover events were held. Helped integrate ball culture with artist circles and progressive activism."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.7230,
+          "lon": -73.9940,
+          "name": "Paradise Garage"
+        },
+        "text": {
+          "headline": "Paradise Garage",
+          "text": "A spiritual predecessor to ballroom’s dance culture. Larry Levan’s sound shaped the musical energy of voguing. The space welcomed queer POC bodies in the downtown club scene."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.726803,
+          "lon": -73.998101,
+          "name": "The Loft, NoHo"
+        },
+        "text": {
+          "headline": "The Loft: Radical Joy in NoHo",
+          "text": "David Mancuso’s party space centered music and safety, inspiring ballroom's value of joyous gathering amidst political crisis."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.6670,
+          "lon": -73.9510,
+          "name": "Empire Skating Rink, Brooklyn"
+        },
+        "text": {
+          "headline": "Final Expansion: Empire Skating Rink, Brooklyn (1990s)",
+          "text": "Ballroom culture reached Brooklyn with large-scale events like 'Gospel on Skates.' This marked the decentralization and continued growth of the scene into outer boroughs."
+        }
+      }
+    ]
+  }
+}
