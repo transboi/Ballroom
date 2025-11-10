@@ -1,3 +1,7 @@
+# Save the corrected JSON structure into a file
+fixed_json_path = Path("/mnt/data/fixed_storymap.json")
+fixed_json_path.write_text("""
+{
   "storymap": {
     "language": "en",
     "map_type": "toner-lite",
@@ -134,3 +138,6 @@
     ]
   }
 }
+""".strip())
+
+fixed_json_path.name
