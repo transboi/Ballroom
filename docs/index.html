@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Ballroom Culture Migration: 1970s–1990s</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
+  <script src="https://cdn.knightlab.com/libs/storymapjs/latest/js/storymap-min.js"></script>
+  <style>
+    html, body { height: 100%; margin: 0; padding: 0; }
+    body {
+      background: #f7f1e3;
+      font-family: "Georgia", "Times New Roman", serif;
+      color: #3a2e1f;
+    }
+    #map { width: 100%; height: 100%; }
+    .storymap-slide-text {
+      background-color: rgba(247, 241, 227, 0.92);
+      padding: 15px;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script>
+    var storymap_url = "ballroom_storymap.json";
+    var storymap = new KLStoryMap.StoryMap("map", storymap_url, {
+      language: "en",
+      map_type: "watercolor"
+    });
+    window.onresize = function() {
+      storymap.updateDisplay();
+    };
+  </script>
+</body>
+</html>
