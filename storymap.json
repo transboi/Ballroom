@@ -1,0 +1,126 @@
+{
+  "storymap": {
+    "language": "en",
+    "map_type": "toner-lite",
+    "calculate_zoom": true,
+    "slides": [
+      {
+        "type": "overview",
+        "text": {
+          "headline": "Ballroom Culture Migration: 1970s\u20131990s",
+          "text": "A visual journey through key locations in the evolution of New York City's ballroom scene. From Harlem to Midtown, these spaces hosted balls, dance parties, and community building."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8107,
+          "lon": -73.948,
+          "name": "Elks Lodge, Harlem"
+        },
+        "text": {
+          "headline": "Elks Lodge, Harlem",
+          "text": "One of the earliest major ball venues. Hosted the 1984 'Paris is Burning Ball' and others in Harlem\u2019s drag and ballroom circuit."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.814,
+          "lon": -73.954,
+          "name": "Jay\u2019s Bar, Harlem"
+        },
+        "text": {
+          "headline": "Jay\u2019s Bar, 125th Street",
+          "text": "Key queer nightlife site in Harlem. Along with Andre\u2019s, it served as an informal social hub in the 1980s."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.667,
+          "lon": -73.951,
+          "name": "Empire Roller Skating Rink, Brooklyn"
+        },
+        "text": {
+          "headline": "Empire Roller Skating Rink",
+          "text": "In Crown Heights, this was the site of major balls in the 1980s, including 'Gospel on Skates' and community fundraisers."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.763627,
+          "lon": -73.984122,
+          "name": "Roseland Ballroom"
+        },
+        "text": {
+          "headline": "Roseland Ballroom, Midtown",
+          "text": "Site of the legendary 1989 and 1991 'Love Ball' AIDS benefits. Drew celebrities and raised over $1.5M."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.764361,
+          "lon": -73.983778,
+          "name": "Studio 54"
+        },
+        "text": {
+          "headline": "Studio 54",
+          "text": "Iconic disco that shaped nightlife in the 70s and 80s. Selective door policy but influential in ballroom\u2019s aesthetics."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.733311,
+          "lon": -73.988156,
+          "name": "Palladium, East Village"
+        },
+        "text": {
+          "headline": "Palladium, East Village",
+          "text": "Known for grand dance events and benefit balls. Hosted events with Spike Lee and ballroom legends."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.7437,
+          "lon": -74.0073,
+          "name": "Tracks, Chelsea"
+        },
+        "text": {
+          "headline": "Club Tracks, Chelsea",
+          "text": "Ballroom space in Chelsea. Kevin Omni hosted \u2018Legends, Statements & Stars\u2019 series here beginning 1989."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.723,
+          "lon": -73.994,
+          "name": "Paradise Garage"
+        },
+        "text": {
+          "headline": "Paradise Garage",
+          "text": "Famous for Larry Levan\u2019s DJ sets. Spiritual center of downtown queer and ballroom nightlife in the 1980s."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.726803,
+          "lon": -73.998101,
+          "name": "The Loft, NoHo"
+        },
+        "text": {
+          "headline": "The Loft, NoHo",
+          "text": "David Mancuso\u2019s private dance space helped pioneer underground queer dance culture and influenced ballroom rhythms."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.7662,
+          "lon": -73.993,
+          "name": "Haaren High School (Up the Down Staircase)"
+        },
+        "text": {
+          "headline": "Up the Down Staircase (Filming Site)",
+          "text": "Filmed at Haaren High School, this 1967 film contextualizes public education in NYC, paralleling ballroom\u2019s themes of youth and survival."
+        }
+      }
+    ]
+  }
+}
