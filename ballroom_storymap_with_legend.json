@@ -1,0 +1,93 @@
+{
+  "storymap": {
+    "language": "en",
+    "map_type": "watercolor",
+    "calculate_zoom": true,
+    "slides": [
+      {
+        "type": "overview",
+        "text": {
+          "headline": "Ballroom Culture Migration: 1970s–1990s",
+          "text": "This map visualizes the migration of New York City’s ballroom culture from its early roots in Harlem to downtown Manhattan and Brooklyn. It highlights the geographic shift in cultural hubs, from historically Black neighborhoods like Harlem and Crown Heights to the East and West Village, often in response to displacement, policing, and urban neglect. As ballroom migrated, it also tracked the epidemic toll of AIDS on Black and Latinx LGBTQ+ communities, whose survival gave rise to mutual aid, art, and activism.<br><br><strong>Legend:</strong><br><span style='color:#000080;'>■ Harlem Roots</span> &nbsp;&nbsp;&nbsp; <span style='color:#006400;'>■ Brooklyn Expansion</span> &nbsp;&nbsp;&nbsp; <span style='color:#8B0000;'>■ Downtown Shift</span>"
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8021,
+          "lon": -73.9496,
+          "name": "Up the Down Staircase Site, Harlem"
+        },
+        "text": {
+          "headline": "115th & 5th (1967): Early Public Space",
+          "text": "This Harlem corner was used for the 1967 film 'Up the Down Staircase' and later became a site of early ball events. In a heavily Black neighborhood shaped by the Great Migration, it became a symbolic space for youth performance and protest culture."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8107,
+          "lon": -73.948,
+          "name": "Elks Lodge, Harlem"
+        },
+        "text": {
+          "headline": "Elks Lodge, Harlem (1984)",
+          "text": "The Elks Lodge hosted the legendary 'Paris Is Burning Ball' in 1984. Situated in Central Harlem, this space nurtured Black LGBTQ+ expression. During the 1980s, Harlem was facing both rapid gentrification and disproportionate HIV/AIDS diagnoses in Black communities. By 1990, Black and Latinx New Yorkers represented nearly 50% of citywide AIDS deaths."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.8141,
+          "lon": -73.9535,
+          "name": "Andre’s Bar, Harlem"
+        },
+        "text": {
+          "headline": "Andre’s Bar on 125th Street",
+          "text": "Black trans and queer patrons kept Harlem nightlife alive at Andre’s through the 1980s. These venues were both community gathering points and informal AIDS support networks during a time of systemic medical neglect."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.763627,
+          "lon": -73.984122,
+          "name": "Roseland Ballroom"
+        },
+        "text": {
+          "headline": "Roseland Ballroom, Midtown (1989–1991)",
+          "text": "Roseland’s 'Love Balls' were the first AIDS benefit events produced by and for the ballroom community. These events raised over $1.5 million and put Black queer performers on a national stage, even as the epidemic disproportionately impacted their homes in Harlem, the Bronx, and Brooklyn."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.7437,
+          "lon": -74.0073,
+          "name": "Club Tracks, Chelsea"
+        },
+        "text": {
+          "headline": "Tracks, Chelsea",
+          "text": "As Harlem venues closed, Chelsea became a new ballroom outpost. Tracks embodied the shift from Black neighborhoods to gentrified downtown spaces, often excluding original communities while profiting from their culture."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.723,
+          "lon": -73.994,
+          "name": "Paradise Garage"
+        },
+        "text": {
+          "headline": "Paradise Garage: Sound and Sickness",
+          "text": "Larry Levan’s DJ residency at Paradise Garage defined the ballroom sound. Located in a warehouse district, it drew dancers across borough lines while losing dozens of community members to AIDS-related deaths by the mid-1980s."
+        }
+      },
+      {
+        "location": {
+          "lat": 40.726803,
+          "lon": -73.998101,
+          "name": "The Loft, NoHo"
+        },
+        "text": {
+          "headline": "The Loft, NoHo",
+          "text": "Though not a ballroom venue, The Loft embodied similar values of safety and dance-based community. As ballroom culture moved downtown, it influenced these underground gatherings—often without recognition of its Black, trans, and queer origins."
+        }
+      }
+    ]
+  }
+}
